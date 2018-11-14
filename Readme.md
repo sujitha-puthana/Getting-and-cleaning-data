@@ -1,4 +1,4 @@
-# Project - Getting and cleaning data project
+# Project - Getting and cleaning Data
 
 ### Data set - UCI HAR Dataset
 ### Script Source - run_analysis.R 
