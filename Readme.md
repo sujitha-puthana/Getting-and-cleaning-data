@@ -2,4 +2,5 @@
 
 ## Data set - UCI HAR Dataset
 
-Step 1 - 
+### Script Source - run_analysis.R 
+
