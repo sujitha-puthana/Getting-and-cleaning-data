@@ -3,6 +3,7 @@
 ### Data set - UCI HAR Dataset
 ### Script Source - run_analysis.R 
 ### Summary of resulting data - Code Book.md
+### Analyzed Data - tidy_data.txt
 
 ## Creating the dataset 
 1. Download the source of data and unzip.
